@@ -6,3 +6,5 @@ In this lab you learn how to:
 
 Design a report
 Configure visual fields and format properties
+In Power BI Desktop, to rename the page, at the bottom-left, right-click Page 1, then Rename the page as Overview.
+
