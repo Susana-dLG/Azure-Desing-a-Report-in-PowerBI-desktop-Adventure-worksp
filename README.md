@@ -1,10 +1,9 @@
 Design a Report in Power BI Desktop
 Lab story
-In this lab, you'll create a three-page report. You'll then publish it to Power BI, where you'll open and interact with the report.
-
-In this lab you learn how to:
+I have created a three-page report. Then they wull be publish to Power BI, where you would open and interact with the report.
 
 Design a report
 Configure visual fields and format properties
-In Power BI Desktop, to rename the page, at the bottom-left, right-click Page 1, then Rename the page as Overview.
+
+![image](https://github.com/user-attachments/assets/506379e9-9a34-4630-8fe7-bdc364bfa3ed)
 
