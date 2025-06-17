@@ -69,4 +69,5 @@ After completing the design in Power BI Desktop, the report was published to the
 This report was built as part of a guided lab exercise and demonstrates essential skills for Power BI Data Analysts, including data visualization, dashboard design, and cloud publishing.
 
 ---
-
+Created by Susana-dLG
+May 2025
