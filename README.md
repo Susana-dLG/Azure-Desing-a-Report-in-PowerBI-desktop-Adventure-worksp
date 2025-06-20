@@ -1,5 +1,5 @@
 
-# 📊 Power BI Report Design – Microsoft Power BI Data Analyst (Cloud Slice Lab)
+# 📊 Power BI Report Design – Microsoft Power BI Data Analyst (Lab)
 
 This project is part of the **Microsoft Power BI Data Analyst (Cloud Slice)** training series. It demonstrates the process of designing and publishing a multi-page report in Power BI Desktop.
 
